@@ -25,7 +25,8 @@ export async function generateOgImage(props) {
 
   const browser = await puppeteer.launch({
      headless: true,
-     args: ['--no-sandbox','--disable-setuid-sandbox']
+     ignoreDefaultArgs: ['--disable-extensions'],
+     args: ['--no-sandbox','--disable-setuid-sandbox','--use-gl=egl']
     });
   const page = await browser.newPage();
   await page.setViewport({ width: 1200, height: 630 });
