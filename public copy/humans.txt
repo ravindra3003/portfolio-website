@@ -1,0 +1,38 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Developer
+
+Ravindra Nakrani
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/ravindranakrani
+github.com/ravindra3003
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS 
+
+Gotham
+Hiragino Kaku Gothic

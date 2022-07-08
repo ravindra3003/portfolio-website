@@ -1,0 +1,25 @@
+{
+  "short_name": "Ravindra Nakrani",
+  "name": "Design Portfolio of Ravindra Nakrani",
+  "icons": [
+    {
+      "src": "letter-r.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "letter-r.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "letter-r.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111"
+}
