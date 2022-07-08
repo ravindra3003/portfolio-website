@@ -23,8 +23,9 @@ const ProfileText = ({ visible, titleId }) => (
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       I’m Ravindra, currently I live in Surat working as a Software Developer. My projects include React,
       Javascript, TypeScript, Dart, React-Native. Being comfortable with code allows me to rapidly
-      prototype and validate experiences. If you’re interested in the tools and software I
-      use check out my <Link href="/uses">uses page</Link>.
+      prototype and validate experiences. 
+      {/* If you’re interested in the tools and software I
+      use check out my <Link href="/uses">uses page</Link>. */}
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       In my spare time I like to do  Volunteering and community involvement, play video games, and
@@ -54,7 +55,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
           <div className={styles.content}>
             <div className={styles.column}>
               <ProfileText visible={visible} titleId={titleId} />
-              <Button
+              {/* <Button
                 secondary
                 className={styles.button}
                 data-visible={visible}
@@ -62,7 +63,8 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 icon="send"
               >
                 Send me a message
-              </Button>
+              </Button> */}
+              <DecoderText text=" 📩  3003.ravindra@gmail.com" start={visible} delay={500} />
             </div>
             <div className={styles.column}>
               <div className={styles.tag} aria-hidden>
