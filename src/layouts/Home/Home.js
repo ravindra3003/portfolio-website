@@ -108,7 +108,7 @@ export const Home = () => {
         index={1}
         title="Robo Reward Program"
         description="Automated Customer Loyalty Reward Program Software Made Easy! Plain & Simple – Our customer loyalty software creates more loyal customers, rewards them, & keeps them coming back spending more."
-        buttonText="View admin panel"
+        buttonText="View project"
         buttonLink="https://github.com/ravindra3003/RoboRewardsProgram"
         model={{
           type: 'phone',
@@ -133,7 +133,7 @@ export const Home = () => {
         index={2}
         title="Bluetimo"
         description="Bluetimo provides a platform that allows skilled and experienced professionals to connect with users looking for specific services. Once on the platform, our match-making algorithm identifies professionals who are closest to the users' requirements and available at the requested time and date."
-        buttonText="View Details"
+        buttonText="View project"
         buttonLink="https://github.com/ravindra3003/Bluetimo-app"
         model={{
           type: 'phone',
@@ -193,7 +193,7 @@ export const Home = () => {
         index={4}
         title="Chatime"
         description="About Personal Chat Room or Workspace to share resources and hangout with friends build with React.js, Material-UI, and Firebase."
-        buttonText="View web app"
+        buttonText="View project"
         buttonLink="https://github.com/ravindra3003/Chatime"
         model={{
           type: 'laptop',
