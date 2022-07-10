@@ -109,7 +109,7 @@ export const Home = () => {
         title="Robo Reward Program"
         description="Automated Customer Loyalty Reward Program Software Made Easy! Plain & Simple – Our customer loyalty software creates more loyal customers, rewards them, & keeps them coming back spending more."
         buttonText="View admin panel"
-        buttonLink="https://v2.roborewards.net"
+        buttonLink="https://github.com/ravindra3003/RoboRewardsProgram"
         model={{
           type: 'phone',
           alt: 'App login screen',
@@ -134,7 +134,7 @@ export const Home = () => {
         title="Bluetimo"
         description="Bluetimo provides a platform that allows skilled and experienced professionals to connect with users looking for specific services. Once on the platform, our match-making algorithm identifies professionals who are closest to the users' requirements and available at the requested time and date."
         buttonText="View Details"
-        buttonLink="https://github.com/ravindra3003/Bluetimo"
+        buttonLink="https://github.com/ravindra3003/Bluetimo-app"
         model={{
           type: 'phone',
           alt: 'App login screen',
@@ -165,7 +165,7 @@ export const Home = () => {
         title="MoviesDaily"
         description="DailyMovies is the ultimate streaming guide for movies and TV shows. Track what you want to watch. Movie tracker and movie finder app where you can find movies, series, seasons, and episodes. Movie reviews, movie trailers, movie recommendations, and actors from the largest community database TMDB. We take you behind the scenes. Stay up to date with new movies, tv shows, and web series."
         buttonText="View project"
-        buttonLink="https://play.google.com/store/apps/details?id=com.dailymovies"
+        buttonLink="https://github.com/ravindra3003/Movie"
         model={{
           type: 'phone',
           alt: 'App login screen',
